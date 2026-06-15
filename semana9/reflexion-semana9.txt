@@ -1,0 +1,8 @@
+Es importante que los servidores funcionen de manera estable porque muchas personas dependen de ellos.
+Un servidor estable permite que las aplicaciones respondan sin fallos.
+La seguridad y estabilidad evitan pérdidas de información.
+También mejora la experiencia del usuario.
+Los servidores permiten conectar aplicaciones con los usuarios.
+Es importante monitorear su funcionamiento constantemente.
+Los logs ayudan a detectar errores.
+Por eso es clave mantener un buen control del sistema.

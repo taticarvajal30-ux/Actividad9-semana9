@@ -1,0 +1,14 @@
+Sistema operativo: 
+Es la base donde se ejecuta Node.js.
+
+Node.js: 
+Permite ejecutar JavaScript en el servidor.
+
+server.js: 
+Archivo principal que contiene la lógica del servidor.
+
+Puerto: 
+Canal por donde el servidor recibe solicitudes (3000).
+
+Logs: 
+Mensajes que muestran información del funcionamiento del sistema.
